@@ -1,6 +1,6 @@
-# uSafe-arduino
+# uSafe - Arduino
 
-##**Reduzindo os Riscos de Quedas: O uSafe e o Cuidado Vitalício dos Nossos Idosos**
+**Reduzindo os Riscos de Quedas: O uSafe e o Cuidado Vitalício dos Nossos Idosos**
 
 Na vida os anos podem nos conferir sabedoria e experiência, mas também trazem consigo desafios físicos. Entre esses desafios, um dos mais preocupantes é a propensão dos idosos a quedas. Estas não são apenas incidentes corriqueiros; elas representam um sério risco à saúde e à qualidade de vida dos mais velhos.
 As quedas, para os idosos, não são apenas um evento momentâneo, mas sim uma das principais causas de lesões graves, hospitalizações e perda de independência, podendo levar até a problemas psicológicos como ansiedade e depressão.
@@ -12,11 +12,15 @@ Ao adotar o uSafe, não estamos apenas investindo em um produto inovador, mas ta
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##O Funcionamento do dispositivo:
+**O Funcionamento do dispositivo:**
 Através de um aplicativo, na tela inicial você poderá ativar ou desativar o dispositivo. Simples e fácil para ser usado por pessoas que qualquer idade e familiarização com a tecnologia. Para quem entenda um pouco mais, terá um histórico de registro diário para acompanhar a pessoa que você ama e verificar se no dia houve alguma queda. Terá também um botão para FAQ em caso de dúvidas comuns e problemas técnicos, que poderá ser resolvido junto à um técnico.
 Em caso de acionamento do airbag, aparecerá um botão para desativá-lo e retorná-lo ao cinto na página inicial.
 
 O dispositivo inicialmente será um cinto, onde o airbag ficará na parte das costas e na parte frontal, podendo futuramente ser evoluído para outros tipos e modelos de airbag.
 
-##Link para o Wokwi:
+**Link para o Wokwi:**
 https://wokwi.com/projects/382032544889246721
+
+**Criadores do uSafe:**
+Leonardo Pereira Nunes - 550768 
+Ian Cancian Nachtergaele - 98387
