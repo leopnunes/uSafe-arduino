@@ -18,9 +18,9 @@ Em caso de acionamento do airbag, aparecerá um botão para desativá-lo e retor
 
 O dispositivo inicialmente será um cinto, onde o airbag ficará na parte das costas e na parte frontal, podendo futuramente ser evoluído para outros tipos e modelos de airbag.
 
-**Link para o Wokwi:**
+**Link para o Wokwi:** <br>
 https://wokwi.com/projects/382032544889246721
 
 **Criadores do uSafe:**
-Leonardo Pereira Nunes - 550768 
-Ian Cancian Nachtergaele - 98387
+<br>Leonardo Pereira Nunes - 550768 
+<br>Ian Cancian Nachtergaele - 98387
